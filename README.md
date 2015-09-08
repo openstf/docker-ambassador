@@ -1,6 +1,6 @@
 # docker-ambassador
 
-This docker image is a mashup of [ctlc/ambassador](https://github.com/CenturyLinkLabs/ctlc-docker-ambassador) and [suutari/ambassador](https://github.com/suutari/docker-ambassador). It was made for the [OpenSTF](https://github.com/openstf/stf) example deployment when we realized `ctlc/ambassador` was pretty much completely broken.
+This docker image is a mashup of [ctlc/ambassador](https://github.com/CenturyLinkLabs/ctlc-docker-ambassador) and [suutari/ambassador](https://github.com/suutari/docker-ambassador). It was made for the [OpenSTF](https://github.com/openstf/stf) example deployment when we realized that `ctlc/ambassador` was pretty much completely broken.
 
 While there are practically endless existing ambassador images out there, having our own ambassador image allows us more flexibility.
 
